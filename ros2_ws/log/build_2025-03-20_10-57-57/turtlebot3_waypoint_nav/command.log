@@ -1,0 +1,6 @@
+Invoking command in '/home/aadi/ros2_ws/build/turtlebot3_waypoint_nav': /usr/bin/cmake /home/aadi/ros2_ws/src/turtlebot3_waypoint_nav -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCATKIN_SYMLINK_INSTALL=ON -DCMAKE_INSTALL_PREFIX=/home/aadi/ros2_ws/install/turtlebot3_waypoint_nav
+Invoked command in '/home/aadi/ros2_ws/build/turtlebot3_waypoint_nav' returned '0': /usr/bin/cmake /home/aadi/ros2_ws/src/turtlebot3_waypoint_nav -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCATKIN_SYMLINK_INSTALL=ON -DCMAKE_INSTALL_PREFIX=/home/aadi/ros2_ws/install/turtlebot3_waypoint_nav
+Invoking command in '/home/aadi/ros2_ws/build/turtlebot3_waypoint_nav': /usr/bin/cmake --build /home/aadi/ros2_ws/build/turtlebot3_waypoint_nav -- -j4 -l4
+Invoked command in '/home/aadi/ros2_ws/build/turtlebot3_waypoint_nav' returned '0': /usr/bin/cmake --build /home/aadi/ros2_ws/build/turtlebot3_waypoint_nav -- -j4 -l4
+Invoking command in '/home/aadi/ros2_ws/build/turtlebot3_waypoint_nav': /usr/bin/cmake --install /home/aadi/ros2_ws/build/turtlebot3_waypoint_nav
+Invoked command in '/home/aadi/ros2_ws/build/turtlebot3_waypoint_nav' returned '0': /usr/bin/cmake --install /home/aadi/ros2_ws/build/turtlebot3_waypoint_nav

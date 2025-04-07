@@ -1,0 +1,64 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Found rclpy: 3.3.15 (/opt/ros/humble/share/rclpy/cmake)
+-- Configuring done
+-- Generating done
+[33mCMake Warning:
+  Manually-specified variables were not used by the project:
+
+    CATKIN_INSTALL_INTO_PREFIX_ROOT
+    CATKIN_SYMLINK_INSTALL
+
+[0m
+-- Build files have been written to: /home/aadi/ros2_ws/build/turtlebot3_waypoint_nav
+Built target ament_cmake_python_copy_turtlebot3_waypoint_nav
+running egg_info
+creating turtlebot3_waypoint_nav.egg-info
+writing turtlebot3_waypoint_nav.egg-info/PKG-INFO
+writing dependency_links to turtlebot3_waypoint_nav.egg-info/dependency_links.txt
+writing top-level names to turtlebot3_waypoint_nav.egg-info/top_level.txt
+writing manifest file 'turtlebot3_waypoint_nav.egg-info/SOURCES.txt'
+reading manifest file 'turtlebot3_waypoint_nav.egg-info/SOURCES.txt'
+writing manifest file 'turtlebot3_waypoint_nav.egg-info/SOURCES.txt'
+Built target ament_cmake_python_build_turtlebot3_waypoint_nav_egg
+-- Install configuration: ""
+-- Installing: /home/aadi/ros2_ws/install/turtlebot3_waypoint_nav/share/turtlebot3_waypoint_nav/environment/pythonpath.sh
+-- Installing: /home/aadi/ros2_ws/install/turtlebot3_waypoint_nav/share/turtlebot3_waypoint_nav/environment/pythonpath.dsv
+-- Installing: /home/aadi/ros2_ws/install/turtlebot3_waypoint_nav/local/lib/python3.10/dist-packages/turtlebot3_waypoint_nav-0.0.0-py3.10.egg-info
+-- Installing: /home/aadi/ros2_ws/install/turtlebot3_waypoint_nav/local/lib/python3.10/dist-packages/turtlebot3_waypoint_nav-0.0.0-py3.10.egg-info/dependency_links.txt
+-- Installing: /home/aadi/ros2_ws/install/turtlebot3_waypoint_nav/local/lib/python3.10/dist-packages/turtlebot3_waypoint_nav-0.0.0-py3.10.egg-info/PKG-INFO
+-- Installing: /home/aadi/ros2_ws/install/turtlebot3_waypoint_nav/local/lib/python3.10/dist-packages/turtlebot3_waypoint_nav-0.0.0-py3.10.egg-info/SOURCES.txt
+-- Installing: /home/aadi/ros2_ws/install/turtlebot3_waypoint_nav/local/lib/python3.10/dist-packages/turtlebot3_waypoint_nav-0.0.0-py3.10.egg-info/top_level.txt
+-- Installing: /home/aadi/ros2_ws/install/turtlebot3_waypoint_nav/local/lib/python3.10/dist-packages/turtlebot3_waypoint_nav
+-- Installing: /home/aadi/ros2_ws/install/turtlebot3_waypoint_nav/local/lib/python3.10/dist-packages/turtlebot3_waypoint_nav/__init__.py
+-- Installing: /home/aadi/ros2_ws/install/turtlebot3_waypoint_nav/local/lib/python3.10/dist-packages/turtlebot3_waypoint_nav/waypoint_nav.py
+Listing '/home/aadi/ros2_ws/install/turtlebot3_waypoint_nav/local/lib/python3.10/dist-packages/turtlebot3_waypoint_nav'...
+Compiling '/home/aadi/ros2_ws/install/turtlebot3_waypoint_nav/local/lib/python3.10/dist-packages/turtlebot3_waypoint_nav/__init__.py'...
+Compiling '/home/aadi/ros2_ws/install/turtlebot3_waypoint_nav/local/lib/python3.10/dist-packages/turtlebot3_waypoint_nav/waypoint_nav.py'...
+-- Installing: /home/aadi/ros2_ws/install/turtlebot3_waypoint_nav/share/ament_index/resource_index/package_run_dependencies/turtlebot3_waypoint_nav
+-- Installing: /home/aadi/ros2_ws/install/turtlebot3_waypoint_nav/share/ament_index/resource_index/parent_prefix_path/turtlebot3_waypoint_nav
+-- Installing: /home/aadi/ros2_ws/install/turtlebot3_waypoint_nav/share/turtlebot3_waypoint_nav/environment/ament_prefix_path.sh
+-- Installing: /home/aadi/ros2_ws/install/turtlebot3_waypoint_nav/share/turtlebot3_waypoint_nav/environment/ament_prefix_path.dsv
+-- Installing: /home/aadi/ros2_ws/install/turtlebot3_waypoint_nav/share/turtlebot3_waypoint_nav/environment/path.sh
+-- Installing: /home/aadi/ros2_ws/install/turtlebot3_waypoint_nav/share/turtlebot3_waypoint_nav/environment/path.dsv
+-- Installing: /home/aadi/ros2_ws/install/turtlebot3_waypoint_nav/share/turtlebot3_waypoint_nav/local_setup.bash
+-- Installing: /home/aadi/ros2_ws/install/turtlebot3_waypoint_nav/share/turtlebot3_waypoint_nav/local_setup.sh
+-- Installing: /home/aadi/ros2_ws/install/turtlebot3_waypoint_nav/share/turtlebot3_waypoint_nav/local_setup.zsh
+-- Installing: /home/aadi/ros2_ws/install/turtlebot3_waypoint_nav/share/turtlebot3_waypoint_nav/local_setup.dsv
+-- Installing: /home/aadi/ros2_ws/install/turtlebot3_waypoint_nav/share/turtlebot3_waypoint_nav/package.dsv
+-- Installing: /home/aadi/ros2_ws/install/turtlebot3_waypoint_nav/share/ament_index/resource_index/packages/turtlebot3_waypoint_nav
+-- Installing: /home/aadi/ros2_ws/install/turtlebot3_waypoint_nav/share/turtlebot3_waypoint_nav/cmake/turtlebot3_waypoint_navConfig.cmake
+-- Installing: /home/aadi/ros2_ws/install/turtlebot3_waypoint_nav/share/turtlebot3_waypoint_nav/cmake/turtlebot3_waypoint_navConfig-version.cmake
+-- Installing: /home/aadi/ros2_ws/install/turtlebot3_waypoint_nav/share/turtlebot3_waypoint_nav/package.xml
